@@ -7,7 +7,6 @@
 		$temp = str_replace($var, $var[0], $string);
 		$ok = explode($var[0], $temp);
 		return  $ok;
-	
 	}
 
 	function ExtraVideo($Hash){
