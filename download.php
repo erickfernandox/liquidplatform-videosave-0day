@@ -62,19 +62,19 @@
 	
 	
 	//Chamando a função para extrair o video
-	if(!empty(hashvideo1)){
+	if(!empty($hashvideo1)){
 		ExtraVideo($hashvideo1);
 	}
-	if(!empty(hashvideo2)){
+	if(!empty($hashvideo2)){
 		ExtraVideo($hashvideo2);
 	}
-	if(!empty(hashvideo3)){
+	if(!empty($hashvideo3)){
 		ExtraVideo($hashvideo3);
 	}
-	if(!empty(hashvideo4)){
+	if(!empty($hashvideo4)){
 		ExtraVideo($hashvideo4);
 	}
-	if(!empty(hashvideo5)){
+	if(!empty($hashvideo5)){
 		ExtraVideo($hashvideo5);
 	}
 ?>
