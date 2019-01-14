@@ -2,11 +2,11 @@
 	
 	include "simple_html_dom.php";
 	
-	function multiexplode ($delimiters,$string) {
+	function multiexplode ($var,$string) {
 		
-		$ready = str_replace($delimiters, $delimiters[0], $string);
-		$launch = explode($delimiters[0], $ready);
-		return  $launch;
+		$temp = str_replace($var, $var[0], $string);
+		$ok = explode($var[0], $temp);
+		return  $ok;
 	
 	}
 
