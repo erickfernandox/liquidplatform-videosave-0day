@@ -1,5 +1,8 @@
 <?php
-	
+
+#Algoritmo Criado por Erick Fernando Xavier de Oliveira
+#Explora uma Vulnerabilidade na Liquidplataform e Burla o mecanismo de antipirataria e consegue baixar o video original em MP4
+
 	include "simple_html_dom.php";
 	
 	function multiexplode ($var,$string) {
