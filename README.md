@@ -1,4 +1,6 @@
-Este Algoritmo consegue burlar a proteção antipirataria da liquidplataform e baixar os videos.
+Liquidplataform Video Save - 0day
+
+Este Algoritmo consegue burlar a proteção antipirataria da liquidplataform e baixar os videos originais em MP4, explorando uma vulnerabilidade na plataforma, sendo que até então não era possivel baixar video por ela.
 
 Funciona de tal forma, a liquidplataform tem um URL com 2 hashs, onde o primeiro representa o usuario e o ultimo representa o codigo do vide.
 
